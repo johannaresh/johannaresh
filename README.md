@@ -1,31 +1,36 @@
-<h1 align="center">Hi, I'm Johan Naresh 👋</h1>
+<h1 align="center">Hey, I'm Johan Naresh 👋</h1>
 <p align="center">
-  🚀 Student Developer &nbsp;•&nbsp; SWE Intern Hopeful &nbsp;•&nbsp; Nonprofit Tech Contributor
+  💻 Student Developer · SWE Intern Hopeful · Nonprofit Tech Contributor
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/johan-naresh/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:johannaresh@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-grey?logo=gmail&logoColor=white" />
   </a>
   <a href="https://opportunitieshq.vercel.app/">
-    <img alt="Website" src="https://img.shields.io/badge/Website-Live-green?logo=vercel">
+    <img alt="Website" src="https://img.shields.io/badge/Live Site-Visit-green?logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🧠 About Me
 
-- 🎓 Studying CS, Math, Physics & Further Math at The British School Al Khubairat  
-- 💼 Web Developer @ [Opportunities HQ](https://opportunitieshq.vercel.app/), a nonprofit helping youth find global opportunities  
-- 🤖 Founder & Lead of my school's Robotics Club  
-- 💸 Building in AI, Quant Finance, and EdTech to make learning and investing more accessible  
-- 🔨 Currently working on: React + Next.js platforms, NLP tools, and scalable open-source utilities  
+- 🎓 A-Level student @ The British School Al Khubairat  
+- 🌐 Web Developer @ [Opportunities HQ](https://opportunitieshq.vercel.app/), a nonprofit for youth opportunity access  
+- 🤖 Robotics Club Founder – building hands-on STEM solutions with Raspberry Pi  
+- 💸 Exploring AI + Finance through algorithmic tools and sentiment models  
+- 🛠 Currently building scalable tools using React, Next.js, and NLP APIs
 
 ---
 
 ### 🧰 Tech Stack
 
+```txt
+💻 Languages:     Python · JavaScript · C++ · Java · Dart
+🖥️ Frameworks:    React · Next.js · Node.js
+🧪 Tools:         Firebase · Git · Vercel · Figma
+📊 Interests:     AI/ML · Web Dev · Quant Finance · Ethical AI
