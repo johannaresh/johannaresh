@@ -43,7 +43,7 @@
 
 ---
 
-## ✦ Tech Stack (icons)
+## ✦ Tech Stack 
 
 <div align="center">
 
