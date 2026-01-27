@@ -12,17 +12,14 @@
 
   <br/>
 
-  
   <a href="https://linkedin.com/in/johan-naresh">
-    <img src="https://img.shields.io/badge/LinkedIn-johan--naresh-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-johan--naresh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:johannaresh@gmail.com">
     <img src="https://img.shields.io/badge/Email-johannaresh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <br/><br/>
-
-
 
 </div>
 
@@ -41,8 +38,8 @@
 
 <div align="center">
 
-  <!-- One line icon stack -->
-  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c,java,sql,react,nextjs,nodejs,flask,mongodb,postgres,firebase,git,githubactions,linux,vercel&perline=9" />
+  <!-- One line icon stack (fixed: removed sql -> postgres to avoid missing icon) -->
+  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c,java,postgres,react,nextjs,nodejs,flask,mongodb,postgres,firebase,git,githubactions,linux,vercel&perline=9" />
 
 </div>
 
@@ -50,15 +47,11 @@
 
 ## ✦ What I’m Working On
 
-<div align="center">
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=johannaresh&show_icons=true&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannaresh&layout=compact&hide_border=true" />
-
-</div>
+- Data harmony + public sentiment research at Sephira (country-month panels, robust transforms, validation)
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=johannaresh&hide_border=true&area=true" />
+  <!-- Keep only languages (cleaner than the full stats + activity graph) -->
+  <img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannaresh&layout=compact&hide_border=true&bg_color=0B1220&title_color=E5E7EB&text_color=E5E7EB&icon_color=38BDF8" />
 </div>
 
 ---
@@ -69,7 +62,7 @@
 <div align="center">
 
   <a href="https://github.com/johannaresh">
-    <img src="https://img.shields.io/badge/Marble%20Investments-Async%20Market%20Data%20Pipelines-black?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Marble%20Investments-Async%20Market%20Data%20Pipelines-38BDF8?style=for-the-badge&logo=python&logoColor=white" />
   </a>
   <br/>
   <sub>Async Python pipelines, idempotent updates, MongoDB storage, dashboard integration.</sub>
@@ -77,7 +70,7 @@
   <br/><br/>
 
   <a href="https://github.com/johannaresh">
-    <img src="https://img.shields.io/badge/Public%20Sentiment%20Research-Lead%E2%80%93Lag%20%7C%20Panels%20%7C%20OLS-black?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Public%20Sentiment%20Research-Lead%E2%80%93Lag%20%7C%20Panels%20%7C%20OLS-22C55E?style=for-the-badge&logo=googlescholar&logoColor=white" />
   </a>
   <br/>
   <sub>Time-series correlation studies, robust panel construction, statistical validation workflows.</sub>
@@ -85,7 +78,7 @@
   <br/><br/>
 
   <a href="https://github.com/johannaresh">
-    <img src="https://img.shields.io/badge/Real%20Time%20Gym%20Rep%20Counter-Sensors%20%7C%20WebSockets%20%7C%20Supabase-black?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Real%20Time%20Gym%20Rep%20Counter-Sensors%20%7C%20WebSockets%20%7C%20Supabase-A78BFA?style=for-the-badge&logo=socketdotio&logoColor=white" />
   </a>
   <br/>
   <sub>C++ sensor logic, Node ingestion, WebSocket dashboard, live session state.</sub>
@@ -113,7 +106,21 @@
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=johannaresh&no-frame=true&row=1&column=7" />
+  <!-- Use explicit left/right format to avoid "badge not found" -->
+  <img src="https://img.shields.io/badge/GPA-3.94%2F4.00-38BDF8?style=for-the-badge&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/President%E2%80%99s%20Scholarship-Of%20Distinction-F59E0B?style=for-the-badge&logo=awesomelists&logoColor=white" />
+  <img src="https://img.shields.io/badge/SMAC%20AI%20App%20Competition-Finalist-A78BFA?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Career%20Compass-Scaled%20to%2017.5k%2B%20students-22C55E?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/CFI-Scholar-F59E0B?style=for-the-badge&logo=bookstack&logoColor=white" />
+
+  <br/>
+
+  <a href="https://johannaresh.tech">
+    <img src="https://img.shields.io/badge/Portfolio-johannaresh.tech-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://johannaresh.tech/resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-PDF-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
 
 </div>
 
