@@ -12,10 +12,7 @@
 
   <br/>
 
-  <!-- Badges row -->
-  <a href="https://github.com/johannaresh">
-    <img src="https://img.shields.io/badge/GitHub-johannaresh-181717?style=for-the-badge&logo=github" />
-  </a>
+  
   <a href="https://linkedin.com/in/johan-naresh">
     <img src="https://img.shields.io/badge/LinkedIn-johan--naresh-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
