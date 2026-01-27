@@ -94,7 +94,7 @@
 
 ---
 
-## ✦ Skills (human readable)
+## ✦ Skills 
 
 **Engineering**
 - Full-stack product building (React, Next.js, Node)
