@@ -22,10 +22,7 @@
 
   <br/><br/>
 
-  <!-- Quick stats -->
-  <img src="https://komarev.com/ghpvc/?username=johannaresh&style=for-the-badge&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/johannaresh?style=for-the-badge&label=Followers" />
-  <img src="https://img.shields.io/github/stars/johannaresh?style=for-the-badge&label=Stars" />
+
 
 </div>
 
