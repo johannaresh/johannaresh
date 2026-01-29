@@ -5,7 +5,7 @@
 <div align="center">
 
   <!-- Hero -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Johan%20Naresh&fontAlign=50&fontAlignY=38&desc=CFM%20%7C%20Software%20Engineering%20%7C%20Quant%20Research&descAlign=50&descAlignY=58&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Johan%20Naresh&fontAlign=50&fontAlignY=38&desc=CFM%20%7C%20Software%20Engineering%20%7C%20Data%20Research&descAlign=50&descAlignY=58&animation=twinkling" />
 
   <!-- Typing -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=900&center=true&vCenter=true&width=700&lines=Building+data-heavy+products+and+research+pipelines.;Full-stack+%7C+Python+pipelines+%7C+TypeScript+%7C+MongoDB.;Interested+in+markets%2C+ML%2C+and+high-signal+engineering." alt="Typing SVG" />
