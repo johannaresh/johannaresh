@@ -126,7 +126,7 @@
 
 ---
 
-## Numbers from GitHub! 
+## ✦ Numbers from GitHub! 
 
 ![](https://github-readme-stats.vercel.app/api?username=johannaresh&theme=dark&hide_border=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=johannaresh&theme=dark&hide_border=false)
