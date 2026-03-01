@@ -61,7 +61,7 @@
 <!-- Make these look like “cards” using badges + spacing -->
 <div align="center">
 
-  <a href="https://github.com/johannaresh">
+  <a href="https://www.marbleinvestments.ca">
     <img src="https://img.shields.io/badge/Marble%20Investments-Async%20Market%20Data%20Pipelines-38BDF8?style=for-the-badge&logo=python&logoColor=white" />
   </a>
   <br/>
@@ -69,7 +69,7 @@
 
   <br/><br/>
 
-  <a href="https://github.com/johannaresh/Hack-Western">
+  <a href="https://sephira.institute">
     <img src="https://img.shields.io/badge/Public%20Sentiment%20Research-Lead%E2%80%93Lag%20%7C%20Panels%20%7C%20OLS-22C55E?style=for-the-badge&logo=googlescholar&logoColor=white" />
   </a>
   <br/>
@@ -77,7 +77,7 @@
 
   <br/><br/>
 
-  <a href="https://github.com/johannaresh">
+  <a href="https://github.com/johannaresh/Hack-Western">
     <img src="https://img.shields.io/badge/Real%20Time%20Gym%20Rep%20Counter-Sensors%20%7C%20WebSockets%20%7C%20Supabase-A78BFA?style=for-the-badge&logo=socketdotio&logoColor=white" />
   </a>
   <br/>
