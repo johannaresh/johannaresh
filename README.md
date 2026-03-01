@@ -69,7 +69,7 @@
 
   <br/><br/>
 
-  <a href="https://github.com/johannaresh">
+  <a href="https://github.com/johannaresh/Hack-Western">
     <img src="https://img.shields.io/badge/Public%20Sentiment%20Research-Lead%E2%80%93Lag%20%7C%20Panels%20%7C%20OLS-22C55E?style=for-the-badge&logo=googlescholar&logoColor=white" />
   </a>
   <br/>
